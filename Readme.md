@@ -44,7 +44,6 @@ Krav til siden:
 - [CSS](https://www.w3schools.com/css/default.asp)
   - Media Query
   - Flexbox
-- [JS](https://www.w3schools.com/js/)
 
 ## Funksjoner
 
