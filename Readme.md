@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Media Query</h1>
     <h3>
-      <a href="#">Lenke </a>
+      <a href="https://mika755.github.io/Media-Query2/">:D</a>
     </h3>
 </div>
 
